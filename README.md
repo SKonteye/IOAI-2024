@@ -1,5 +1,7 @@
 # International Olympiad in Artificial Intelligence  
 
+> Language: **English** | [**Francais**](README.fr.md)
+
 ## IOAI 2024 – Burgas, Bulgaria  
 
 The **1st International Olympiad in Artificial Intelligence (IOAI 2024)** was held in **Burgas, Bulgaria**, from **August 9–15, 2024**.  
@@ -24,4 +26,3 @@ Nearly **200 students** in **41 teams** from **32 countries and territories acro
 
 This work is released under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** License.  
 You may share and adapt this content as long as proper credit is given and changes are clearly indicated.
-
