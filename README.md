@@ -1,6 +1,6 @@
 # International Olympiad in Artificial Intelligence  
 
-> Language: **English** | [**Francais**](README.fr.md)
+> Language: **English** | [**Francais**](fr/README.md)
 
 ## IOAI 2024 – Burgas, Bulgaria  
 
